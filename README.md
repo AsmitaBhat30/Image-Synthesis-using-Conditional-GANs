@@ -32,7 +32,7 @@ Also, I found out that the avearge distance of the real images irrespective of t
 Additional scope to this project would be to try to compute distances of activations for different layers of the network and see if any other pattern exists.
 I am open to any discussions as to why was there difference in the average distances of real and generated samples irrespective of their labels.
 
-#####################################################################################################################################
+############################################################################################################
 
 The code for training a conditional GAN model can be found in Conditional GANs MNIST.ipynb file.
 
